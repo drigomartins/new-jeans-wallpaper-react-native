@@ -1,14 +1,16 @@
 import { WallpaperItem } from '@/domain';
-import { karina } from './karina';
-import { winter } from './winter';
-import { giselle } from './giselle';
-import { aespa } from './aespa';
-import { ningning } from './ningning';
+import { hanni } from './hanni';
+import { haerin } from './haerin';
+import { danielle } from './danielle';
+import { hyein } from './hyein';
+import { minji } from './minji';
+import { newJeans } from './newjeans';
 
 export const wallpaperList: WallpaperItem[] = [
-  ...karina,
-  ...winter,
-  ...giselle,
-  ...ningning,
-  ...aespa,
+  ...hanni,
+  ...haerin,
+  ...danielle,
+  ...hyein,
+  ...minji,
+  ...newJeans,
 ];

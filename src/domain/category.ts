@@ -1,6 +1,7 @@
 export type Category =
-  | 'Karina'
-  | 'Winter'
-  | 'Giselle'
-  | 'Ningning'
-  | 'Aespa'
+  | 'Hanni'
+  | 'Haerin'
+  | 'Danielle'
+  | 'Hyein'
+  | 'Minji'
+  | 'NewJeans';
